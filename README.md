@@ -3,7 +3,7 @@ A project for learning and exploring JS
 
 The codeacademy captsone project for learning React/JS front-end. 
 
-Prerequistes: Create an account and get an apikey/client id for the Spotify Web API and OpenWeather API.
+Prerequistes: Create an account and get an apikey/client id for the Spotify Web API and OpenWeather API. These need to be added to /src/util/Spotify.js and /src/util/OpenWeather.js
 
 It uses the Spotify Search API and implicit grant to allow a user to create and save a playlist.
 
